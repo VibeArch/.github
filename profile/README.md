@@ -9,7 +9,8 @@
   - <https://github.com/ai-for-developers/awesome-vibe-coding>
 - Spec Coding
   - GitHub Spec-Kit https://github.com/github/spec-kit
-  - OpenSpec https://openspec.dev/ Repos https://github.com/Fission-AI/OpenSpec/ 
+  - OpenSpec https://openspec.dev/ Repos https://github.com/Fission-AI/OpenSpec/
+- BMAD-METHOD <https://github.com/bmad-code-org/BMAD-METHOD> 
 - Vibe Doc | [A Reddit post](https://www.reddit.com/r/ClaudeAI/comments/1ki4ada/vibedocumenting_instead_of_vibecoding/)
   - <https://vibedoc.online/>
   - <https://vibedocs.app/> <https://www.vibecodedocs.dev/> <https://docs.vibe-coding-framework.com/>
